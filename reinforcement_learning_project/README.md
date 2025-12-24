@@ -56,7 +56,7 @@ Depending on the implementation, the project may involve:
 
 ```text
 reinforcement_learning_project/
-├── notebooks/
+├── notebook/
 │   └── reinforcement_learning.ipynb
 ├── report/
 │   └── final_report.pdf
