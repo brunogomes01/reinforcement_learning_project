@@ -58,7 +58,7 @@ Depending on the implementation, the project may involve:
 reinforcement_learning_project/
 ├── notebooks/
 │   └── reinforcement_learning.ipynb
-├── reports/
+├── report/
 │   └── final_report.pdf
 ├── README.md
 ```
